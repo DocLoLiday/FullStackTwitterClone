@@ -1,0 +1,50 @@
+﻿@using TwitterClone.Models
+@model TimelineViewModel
+@{
+    ViewBag.Title = "Timeline";
+}
+
+<h2>{{user.UserName}}'s @ViewBag.Title</h2>
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("Timeline", "Home",  FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                
+                @Html.AntiForgeryToken()
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.TweetText, new { @class = "form-control" })
+                        @Html.HiddenFor(m => m.UserID, new { Value = "{{user.UserID}}" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Tweet" class="btn btn-default" />
+                    </div>
+                </div>
+
+
+                    <div class="col-md-8">
+                       <h4>Tweets</h4>
+                        <div ng-repeat="tweet in tweets">
+                            <a href="#/profile/{{tweet.User.UserID}}">
+                                <div class="col-md-4">{{tweet.User.UserName}}</div>
+                                <div class="col-md-8">{{tweet.TweetText}}</div>
+                            </a>                            
+                        </div>
+                    </div>
+                
+                
+                
+            }
+        </section>
+    </div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

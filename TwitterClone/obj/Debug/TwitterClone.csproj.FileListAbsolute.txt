@@ -1,0 +1,293 @@
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\TwitterClone.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Antlr3.Runtime.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Newtonsoft.Json.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Owin.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Optimization.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\WebGrease.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Optimization.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Antlr3.Runtime.pdb
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Newtonsoft.Json.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+c:\users\paul\documents\visual studio 2015\Projects\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\TwitterClone.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Antlr3.Runtime.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Newtonsoft.Json.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Optimization.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\WebGrease.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Optimization.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Antlr3.Runtime.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Newtonsoft.Json.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csprojResolveAssemblyReference.cache
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Net.Http.Formatting.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Http.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Http.WebHost.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Net.Http.Formatting.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Http.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone\TwitterClone\bin\System.Web.Http.WebHost.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\TwitterClone.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Antlr3.Runtime.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\EntityFramework.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Newtonsoft.Json.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Net.Http.Formatting.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Http.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Http.WebHost.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Optimization.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.WebPages.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\WebGrease.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Net.Http.Formatting.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Http.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Http.WebHost.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Optimization.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.WebPages.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Antlr3.Runtime.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Newtonsoft.Json.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\EntityFramework.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csprojResolveAssemblyReference.cache
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone2\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\TwitterClone.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Antlr3.Runtime.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\EntityFramework.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Newtonsoft.Json.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Owin.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Net.Http.Formatting.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Http.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Http.WebHost.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Optimization.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.WebPages.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\WebGrease.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Net.Http.Formatting.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Http.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Http.WebHost.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Optimization.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.WebPages.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Antlr3.Runtime.pdb
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Newtonsoft.Json.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\EntityFramework.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Users\DocLoLiday\Documents\Visual Studio 2015\Projects\TwitterClone - Copy\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
